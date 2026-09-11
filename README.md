@@ -1,7 +1,7 @@
 # Event Management System
 
 ## Team Members
-- [Your Name] – Role (e.g., Full Stack Developer)
+- [Esha Nazary] – Role (Full Stack Developer)
 - [Teammate Name] – Role
 - [Teammate Name] – Role
 
