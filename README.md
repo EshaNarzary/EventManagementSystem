@@ -1,7 +1,7 @@
 # Event Management System
 
 ## Team Members
-- [Esha Nazary] – Role (Full Stack Developer)
+- [Esha Nazary] – Role (gFull Stack Developer)
 - [Teammate Name] – Role
 - [Teammate Name] – Role
 
